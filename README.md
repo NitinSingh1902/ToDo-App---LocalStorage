@@ -8,3 +8,6 @@ Checkbox: Used to mark a task as complete. By checking the box, you can easily i
 Edit Button: Used to modify an existing task if you want to make any corrections or updates.
 
 Delete Button: Used to remove a task if it was added by mistake or is no longer needed.
+
+<img width="1364" height="450" alt="image" src="https://github.com/user-attachments/assets/780e0c46-b76e-4398-a908-28d53d7958c2" />
+
